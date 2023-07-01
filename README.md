@@ -1,6 +1,9 @@
 # CUSTOMER_CHURN_PREDICTION
 
 ## INTRODUCTION
+
+![customer_image](https://github.com/eldhose-95/CUSTOMER_CHURN_PREDICTION/assets/83853757/85251093-eb7f-44c2-912f-3bdbeac0c7bd)
+
 Customer churn is a major problem for businesses of all sizes. When customers churn, they take their business elsewhere, which can lead to lost revenue, increased costs, and a decline in customer satisfaction.
 
 ### There are many reasons why customers churn. Some of the most common reasons include:
